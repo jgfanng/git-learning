@@ -11,3 +11,4 @@ During the 20th century, technicians tested typewriters and teleprinters with re
 In the age of computers, this pangram is commonly used to display font samples and for testing computer keyboards. In cryptography, it is commonly used as a test vector for hash and encryption algorithms to verify their implementation, as well as to ensure alphabetic character set compatibility. Microsoft Word has a command to auto-type the sentence, in versions up to Word 2003, using the command =rand(), and in Microsoft Office Word 2007 and later using the command =rand.old().[10]
 
 This is an appending!
+Another appending!
