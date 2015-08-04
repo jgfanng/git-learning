@@ -12,4 +12,3 @@ In the age of computers, this pangram is commonly used to display font samples a
 
 This is an appending!
 Another appending!
-Third appending!
