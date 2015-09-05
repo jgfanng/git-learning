@@ -12,3 +12,6 @@ In the age of computers, this pangram is commonly used to display font samples a
 
 blabla
 3
+1
+2
+4
